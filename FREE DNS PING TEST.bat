@@ -1,7 +1,8 @@
 @ECHO off
 ECHO ===============================================
 ECHO FREE DNS PING TEST
-ECHO CREATED BY: BUANANET, SEPTEMBER 2019
+ECHO BY: BUANANET, SEPTEMBER 2019
+ECHO fb.com/buananet.pangkalanbun
 ECHO ===============================================
 CALL:IP 8.8.8.8
 ECHO * Google 8.8.8.8:			%ms%
