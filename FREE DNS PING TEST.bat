@@ -24,6 +24,19 @@ ECHO * Quad9 9.9.9.9:			%ms%
 CALL:IP 149.112.112.112
 ECHO * Quad9 149.112.112.112:		%ms%
 ECHO ===============================================
+CALL:IP 4.2.2.1
+ECHO * Verizon DNS 4.2.2.1:			%ms%
+CALL:IP 4.2.2.2
+ECHO * Verizon DNS 4.2.2.2:			%ms%
+CALL:IP 4.2.2.3
+ECHO * Verizon DNS 4.2.2.3:			%ms%
+CALL:IP 4.2.2.4
+ECHO * Verizon DNS 4.2.2.4:			%ms%
+CALL:IP 4.2.2.5
+ECHO * Verizon DNS 4.2.2.5:			%ms%
+ECHO ===============================================
+CALL:IP 9.9.9.9
+ECHO * Verizon DNS 9.9.9.9:			%ms%
 CALL:IP 199.85.126.10
 ECHO * Norton ConnectSafe 199.85.126.10:	%ms%
 CALL:IP 199.85.127.10
@@ -124,7 +137,7 @@ CALL:IP 99.192.182.101
 ECHO * Tenta 99.192.182.101:			%ms%
 ECHO ===============================================
 ECHO.
-ECHO ** Test Complete **
+ECHO ** Test Done! **
 ECHO.
 ECHO.
   
