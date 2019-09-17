@@ -124,7 +124,7 @@ CALL:IP 99.192.182.101
 ECHO * Tenta 99.192.182.101:			%ms%
 ECHO ===============================================
 ECHO.
-ECHO ** Test 100% Complete **
+ECHO ** Test Complete **
 ECHO.
 ECHO.
   
