@@ -131,6 +131,6 @@ ECHO.
 ECHO.&PAUSE&GOTO:EOF
  
 :IP
-SET ms=Error
+SET ms=# RTO #
 FOR /F "tokens=4 delims==" %%i IN ('ping.exe -n 1 %1 ^| FIND "ms"') DO SET ms=%%i
 GOTO:EOF
