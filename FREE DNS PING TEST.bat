@@ -35,8 +35,6 @@ ECHO * Verizon DNS 4.2.2.4:			%ms%
 CALL:IP 4.2.2.5
 ECHO * Verizon DNS 4.2.2.5:			%ms%
 ECHO ===============================================
-CALL:IP 9.9.9.9
-ECHO * Verizon DNS 9.9.9.9:			%ms%
 CALL:IP 199.85.126.10
 ECHO * Norton ConnectSafe 199.85.126.10:	%ms%
 CALL:IP 199.85.127.10
