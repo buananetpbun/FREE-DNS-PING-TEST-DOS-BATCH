@@ -1,7 +1,7 @@
 # FREE DNS PING TEST DOS BATCH
 Free DNS Ping Test From DOS Batch
 
-<img border="0" src="https://2.bp.blogspot.com/-73ryFgK1Ae0/XYD7CJn-6jI/AAAAAAAAAeo/zaivHagDOd8jY1mSGdCgJn5f8fBQGmgeACLcBGAsYHQ/s1600/freednspingtest.png" />
+![image](https://user-images.githubusercontent.com/42666125/111258868-63837f80-8650-11eb-9195-6724305de12b.png)
 
 <pre>
 @ECHO off
